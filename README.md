@@ -26,20 +26,34 @@ An adorable teddy GIF named Pari, reinforcing the chatbot’s friendly persona.
 The background was set to black to create a sleek, modern contrast, while pastel pink text was used to give a soft, comforting, and friendly vibe. This reversed theme ensured that the chatbot maintained a cute and visually appealing aesthetic while still keeping the text highly readable. The pink-on-black combination also reinforced the chatbot’s identity as a gentle and cheerful companion — just like its namesake, Pari the teddy.
 
 The chatbot starts by introducing itself as Pari and can respond to various questions like:
+
 “Hi” or “Hello”
+
 “What’s your name?”
+
 “How are you?”
+
 “Tell me something cute”
+
 “Bye” or “Good night”
 
 Each response is carefully worded to maintain a friendly tone. The chatbot uses basic NLP to recognize patterns in the user’s message and then selects the most appropriate response. Though it doesn’t learn over time, it simulates an engaging conversation effectively using predefined logic.
 This project has multiple real-life applications:
+
 As an educational tool for teaching kids how chatbots work.
+
 As a friendly assistant on personal blogs or websites.
+
 In mental wellness apps for providing simple companionship or emotional comfort.
+
 As a prototype for customer support bots or digital mascots.
 
 One of the standout aspects of Pari is the way it blends NLP technology with aesthetic and emotional design. It’s not just a functional tool; it’s a personalized interaction experience. The use of a GIF as the character avatar makes the interaction feel more alive and expressive. And by using Python and Tkinter, the chatbot remains lightweight, easy to run on most systems, and simple to customize or expand.
 
 The project demonstrates how basic AI and NLP techniques can be used creatively to build something emotionally meaningful. It’s a perfect example of how technology doesn’t always have to be complex — it can be cute, useful, and comforting all at once. Pari, the teddy chatbot, brings smiles with code and proves that even simple bots can create magical moments when combined with thoughtful design.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/dce4a946-9760-4744-b54d-12ee810a38c6)
+
+![Image](https://github.com/user-attachments/assets/eccc764f-6faf-4d0c-b374-96479ad297b1)
